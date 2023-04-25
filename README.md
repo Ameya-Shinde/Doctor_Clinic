@@ -27,7 +27,7 @@ Annotation Based Validations are Used
   
 #DataBaseDesign
 
-![BloggerApplication](https://user-images.githubusercontent.com/93002372/225376577-6c2971a3-427f-4fb5-a0b8-ae719856bfa1.png)
+![suggestDoctor](https://user-images.githubusercontent.com/93002372/234286980-4dfd5fc4-a2d3-4aef-b328-b898c875d70e.png)
   
 # Data Structure Used
 
