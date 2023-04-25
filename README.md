@@ -1,9 +1,8 @@
 # Doctor_Clinic
 # Project Summary
 
-* This a simple  Blogger api deployed on EC2 with the help of termius
-* You can perform the services in this api on remote devices as well
-* It is deployed on Ubuntu
+* This a simple  Doctor Api for symptom based suggetion of a doctor to a patient.
+* All symptoms are generalised to better search for a doctor based on required speciality.
 
 
 # FrameWorks and Language Used
